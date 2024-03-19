@@ -18,18 +18,10 @@ matplotlib
 yfinance
 You can install all required packages using the following command:
 
-bash
 Copy code
 pip install pandas numpy scikit-learn matplotlib yfinance
 Installation
 Clone this repository to your local machine using:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-Usage
-To run the prediction model, navigate to the project directory in your terminal and execute the following command:
 
 bash
 Copy code

@@ -1,4 +1,5 @@
-Stock and Commodity Market Prediction (minus the commodities aspect, which isn't implemented yet)
+**Stock and Commodity Market Prediction (minus the commodities aspect, which isn't implemented yet)**
+
 Overview
 This project aims to predict the future performance of stock and commodity markets using historical price data. It leverages a basic linear regression model to forecast future prices based on past trends.
 
